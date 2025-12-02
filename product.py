@@ -1,4 +1,3 @@
-import pytest
 def product_details(name,product_id,quantity,price):
     result=(
         f"Product Name:{name}\n"
